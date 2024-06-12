@@ -3,9 +3,12 @@ This script uses python pytube library to download youtube videos and its free
 # Step 1:
 
 Git clone this repo
-`git clone https://github.com/hezron-sketch/Python-Youtube-Downloader.git`
-and
-`cd Python-Youtube-Downloader`
+
+### `git clone https://github.com/hezron-sketch/Python-Youtube-Downloader.git`
+
+### and
+
+### `cd Python-Youtube-Downloader`
 
 # Step 2:
 
