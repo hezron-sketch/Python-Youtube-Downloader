@@ -23,6 +23,6 @@ Insert your youtube video link into the prompt and press `ENTER`
 
 # Remember:
 
-## Only mp3 file formats can be supported currently but soon ...
+## Only mp3 file formats can be downloaded currently but soon ...
 
 ## The downloaded file will be saved in your current `dir`
